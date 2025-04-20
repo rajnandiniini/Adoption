@@ -18,6 +18,7 @@ All data is stored and managed using **MongoDB** (NoSQL), and interactions are h
 
 ## 📁 File Structure
 
+```plaintext
 /adoption
 │
 ├── node_modules/
@@ -37,6 +38,7 @@ All data is stored and managed using **MongoDB** (NoSQL), and interactions are h
 ├── package-lock.json
 ├── server.js
 └── README.md
+
 
 
 ---
