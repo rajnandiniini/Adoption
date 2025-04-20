@@ -14,31 +14,6 @@ This project is designed to demonstrate the use of **NoSQL databases** in real-w
 
 All data is stored and managed using **MongoDB** (NoSQL), and interactions are handled through **Express.js APIs** and a simple user interface.
 
----
-
-## 📁 File Structure
-
-```plaintext
-/adoption
-│
-├── node_modules/
-│
-├── routes/
-│   ├── pets.js
-│   ├── adopters.js
-│   └── adoptions.js
-│
-├── models/
-│   ├── pet.js
-│   ├── adopter.js
-│   └── adoption.js
-│
-├── index.html
-├── package.json
-├── package-lock.json
-├── server.js
-└── README.md
-
 
 
 ---
@@ -77,4 +52,36 @@ All data is stored and managed using **MongoDB** (NoSQL), and interactions are h
 
 ## ⚙️ Setup  
 
-Try it here: **[Dream Sequencer](https://rajnandiniini.github.io/Pet-Adoption-System/)**  
+Try it here: **[Pet-Adoption-System](https://rajnandiniini.github.io/Pet-Adoption-System/)**  
+
+
+
+
+---
+
+## 📁 File Structure
+
+
+```plaintext
+/adoption
+│
+├── node_modules/
+│
+├── routes/
+│   ├── pets.js
+│   ├── adopters.js
+│   └── adoptions.js
+│
+├── models/
+│   ├── pet.js
+│   ├── adopter.js
+│   └── adoption.js
+│
+├── index.html
+├── package.json
+├── package-lock.json
+├── server.js
+└── README.md
+
+
+```plaintext
