@@ -45,7 +45,7 @@ All data is stored and managed using **MongoDB** (NoSQL), and interactions are h
 <img src="https://raw.githubusercontent.com/rajnandiniini/Pet-Adoption-System/main/images/p1.png" width="300" height="auto">
 <img src="https://raw.githubusercontent.com/rajnandiniini/Pet-Adoption-System/main/images/p2.png" width="300" height="auto">
 <img src="https://raw.githubusercontent.com/rajnandiniini/Pet-Adoption-System/main/images/p3.png" width="300" height="auto">
-<img src="https://raw.githubusercontent.com/rajnandiniini/Pet-Adoption-System/main/images/p4.png" width="300" height="auto">
+
 
 
 
@@ -84,4 +84,3 @@ Try it here: **[Pet-Adoption-System](https://rajnandiniini.github.io/Pet-Adoptio
 └── README.md
 
 
-```plaintext
